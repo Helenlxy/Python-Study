@@ -8,3 +8,4 @@ while year <= numyears:
 	print("%3d %0.2f" % (year,principal),file = f)
 	print("%3d %0.2f" % (year,principal))
 	year += 1
+	
